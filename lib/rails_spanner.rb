@@ -1,0 +1,2 @@
+module RailsSpanner
+end
